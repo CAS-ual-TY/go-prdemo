@@ -1,6 +1,6 @@
 module github.com/emilekm/go-prdemo
 
-go 1.22.0
+go 1.22
 
 require (
 	github.com/ghostiam/binstruct v1.3.2
