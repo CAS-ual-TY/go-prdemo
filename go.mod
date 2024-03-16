@@ -1,4 +1,4 @@
-module github.com/emilekm/go-prdemo
+module github.com/CAS-ual-TY/go-prdemo
 
 go 1.22
 
